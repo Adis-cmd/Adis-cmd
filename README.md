@@ -24,11 +24,11 @@
 ## 📊 Статистика профиля:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adis-cmd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adis-cmd&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
