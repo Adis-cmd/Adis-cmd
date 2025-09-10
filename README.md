@@ -27,16 +27,16 @@
 
 #### **Базы данных**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![H2 Database](https://img.shields.io/badge/H2-007396?style=for-the-badge&logo=)&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=)&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2-007396?style=for-the-badge&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logoColor=white)
 
 #### **API & Интеграции**
 ![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=rest&logoColor=white)
 ![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Web Services](https://img.shields.io/badge/Web_Services-0078D4?style=for-the-badge&logo=)&logoColor=white)
+![Web Services](https://img.shields.io/badge/Web_Services-0078D4?style=for-the-badge&logoColor=white)
 
 #### **Frontend**
-![FreeMarker](https://img.shields.io/badge/FreeMarker-007396?style=for-the-badge&logo=)&logoColor=white)
+![FreeMarker](https://img.shields.io/badge/FreeMarker-007396?style=for-the-badge&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
