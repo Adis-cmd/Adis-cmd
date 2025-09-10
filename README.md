@@ -66,7 +66,7 @@
 
 <div align="center">
 
-### **MathBilim.kg** | [Код](https://github.com/Adis-cmd/MathBilim.kg) • [Демо](https://ваша-ссылка-сюда)
+### **MathBilim.kg** | [Код](https://github.com/Adis-cmd/MathBilim.kg) • [Демо](https://mathbilim.kg)
 > **Образовательная платформа с Telegram-ботем**
 > - Публикация и модерация контента
 > - Полный цикл разработки и деплоя (CI/CD, Docker)
@@ -114,7 +114,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/Adis-cmd/Adis-cmd/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
