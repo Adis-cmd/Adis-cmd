@@ -19,11 +19,35 @@
 
 ---
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **Latest Posts & Updates**
+
+<div align="center">
+
+<!-- Blog posts from dev.to -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+### 📝 **Recent Articles**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 💭 **Latest Thoughts**
+```
+> Building scalable systems is not just about code...
+> It's about understanding the bigger picture.
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **About Me**
 
 <div align="left">
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 Привет! Я начинающий Java-разработчик с фокусом на создании качественного backend-кода. Стремлюсь к написанию чистого, поддерживаемого кода и решению сложных задач. В настоящее время изучаю микросервисную архитектуру и облачные технологии.
 
