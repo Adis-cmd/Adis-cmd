@@ -1,75 +1,163 @@
-<h1 align="center">Привет 👋, Я Java Backend разработчик</h1>
+# ⚫ SYSTEM ONLINE
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6B&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%7C+PostgreSQL+%7C+REST+API;Open+to+work+%26+collaboration" alt="Typing SVG" />
-</p>
+<div align="center">
+  
+```
+██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
+██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
+██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=2000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Engineer;Database+Architect;API+Specialist;Code+%7C+Coffee+%7C+Commit" alt="Typing SVG" />
 
 ---
 
-### 👨‍💻 Обо мне
+</div>
 
-Начинающий Java-разработчик с фокусом на создании качественного backend-кода.  
-Стремлюсь к написанию чистого, поддерживаемого кода и решению сложных задач.  
-Ищу возможность присоединиться к сильной команде для профессионального роста.
+## ◼️ **PROFILE.EXE**
+
+```
+┌─────────────────────────────────────────┐
+│ USER: Java Backend Developer            │
+│ STATUS: Active Development              │
+│ LOCATION: Digital Realm                 │
+│ MISSION: Building Robust Systems        │
+│ STACK: Java | Spring | PostgreSQL      │
+└─────────────────────────────────────────┘
+```
 
 ---
 
-### 🛠️ Мой стек технологий
+## ⚪ **TECH_STACK.JSON**
 
 <div align="center">
 
-#### **Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+### **BACKEND**
+![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=000000)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=FFFFFF)
+![Spring Security](https://img.shields.io/badge/Spring_Security-FFFFFF?style=for-the-badge&logo=springsecurity&logoColor=000000)
+![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=FFFFFF)
 
-#### **Базы данных**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![H2 Database](https://img.shields.io/badge/H2-007396?style=for-the-badge&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logoColor=white)
+### **DATABASE**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=000000)
+![H2](https://img.shields.io/badge/H2-000000?style=for-the-badge&logoColor=FFFFFF)
+![JDBC](https://img.shields.io/badge/JDBC-FFFFFF?style=for-the-badge&logoColor=000000)
 
-#### **API & Интеграции**
-![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=rest&logoColor=white)
-![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Web Services](https://img.shields.io/badge/Web_Services-0078D4?style=for-the-badge&logoColor=white)
-
-#### **Frontend**
-![FreeMarker](https://img.shields.io/badge/FreeMarker-007396?style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### **Инструменты**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### **TOOLS**
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=000000)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FFFFFF)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-FFFFFF?style=for-the-badge&logo=intellijidea&logoColor=000000)
 
 </div>
 
 ---
 
-### 📈 Статистика GitHub
+## ◼️ **STATS.SYS**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adis-cmd&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adis-cmd&theme=default&hide_border=true" alt="GitHub Streak" width="45%" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adis-cmd&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_radius=0)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adis-cmd&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adis-cmd&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=0)
+
+</div>
 
 ---
 
-### 📫 Контакты
+## ⚪ **CURRENT.STATUS**
 
-<p align="center">
-  <a href="https://t.me/javadev4">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Adis-cmd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+```
+┌──────────────────────────────────────────────┐
+│ [████████████████████████████████] 100%     │
+│                                              │
+│ OBJECTIVES:                                  │
+│ ▪ Building Enterprise Applications          │
+│ ▪ Mastering Microservices Architecture      │
+│ ▪ Database Performance Optimization         │
+│ ▪ REST API Development                       │
+│ ▪ Clean Code Implementation                  │
+│                                              │
+│ LEARNING:                                    │
+│ ▪ Cloud Technologies                         │
+│ ▪ Docker Containerization                    │
+│ ▪ System Design Patterns                     │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+## ◼️ **PROJECT.DIR**
+
+<div align="center">
+
+```
+/projects
+├── telegram-bot-ecosystem/
+│   ├── spring-boot-integration
+│   ├── postgresql-backend
+│   └── rest-api-services
+├── e-commerce-backend/
+│   ├── user-management
+│   ├── payment-processing
+│   └── inventory-system
+└── data-processing-tools/
+    ├── batch-processing
+    ├── real-time-analytics
+    └── reporting-engine
+```
+
+</div>
+
+---
+
+## ⚪ **ACTIVITY.LOG**
+
+<div align="center">
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adis-cmd&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff)](https://github.com/Adis-cmd)
+
+</div>
+
+---
+
+## ◼️ **CONTACT.API**
+
+<div align="center">
+
+```
+> curl -X GET https://developer.contact/api
+```
+
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/javadev4)
+[![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adis-cmd)
+
+```
+> Response: 200 OK
+> Connection: Established
+> Status: Available for collaboration
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════╗
+║  "In code we trust, in logic we build"   ║
+╚══════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Adis-cmd&color=000000&style=flat-square&label=PROFILE+VIEWS)
+
+**⚫ System Status: OPERATIONAL ⚪**
+
+</div>
