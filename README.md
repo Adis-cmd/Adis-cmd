@@ -23,7 +23,7 @@
 
 <div align="left">
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 Hello! I'm a beginner Java developer focused on creating high-quality backend code. I strive to write clean, maintainable code and solve complex problems. Currently, I'm learning microservices architecture and cloud technologies.I specialize in developing server applications using Spring Boot, designing PostgreSQL databases, and creating RESTful APIs. I also have experience in developing Telegram bots and integrating with external services.
 
