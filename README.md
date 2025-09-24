@@ -25,9 +25,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
-Привет! Я начинающий Java-разработчик с фокусом на создании качественного backend-кода. Стремлюсь к написанию чистого, поддерживаемого кода и решению сложных задач. В настоящее время изучаю микросервисную архитектуру и облачные технологии.
-
-Специализируюсь на разработке серверных приложений с использованием Spring Boot, проектировании баз данных PostgreSQL и создании RESTful API. Также имею опыт разработки Telegram-ботов и интеграции с внешними сервисами.
+Hello! I'm a beginner Java developer focused on creating high-quality backend code. I strive to write clean, maintainable code and solve complex problems. Currently, I'm learning microservices architecture and cloud technologies.I specialize in developing server applications using Spring Boot, designing PostgreSQL databases, and creating RESTful APIs. I also have experience in developing Telegram bots and integrating with external services.
 
 ### 🎯 **What I Do**
 - 🔧 Building robust backend systems with **Java & Spring Boot**
