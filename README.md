@@ -23,28 +23,11 @@
 
 <div align="left">
 
-```yaml
-class JavaDeveloper:
-    def __init__(self):
-        self.name = "Backend Engineer"
-        self.role = "Java Developer"
-        self.language_spoken = ["ru_RU", "en_US"]
-        self.location = "Digital Space"
-        self.current_focus = "Enterprise Backend Solutions"
-        
-    def get_current_status(self):
-        return {
-            "learning": ["Microservices", "Cloud Architecture", "System Design"],
-            "building": ["Scalable REST APIs", "Database Solutions"],
-            "collaborating": "Always open for interesting projects",
-            "available_for": "Backend Development Opportunities"
-        }
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-```
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+Привет! Я начинающий Java-разработчик с фокусом на создании качественного backend-кода. Стремлюсь к написанию чистого, поддерживаемого кода и решению сложных задач. В настоящее время изучаю микросервисную архитектуру и облачные технологии.
+
+Специализируюсь на разработке серверных приложений с использованием Spring Boot, проектировании баз данных PostgreSQL и создании RESTful API. Также имею опыт разработки Telegram-ботов и интеграции с внешними сервисами.
 
 ### 🎯 **What I Do**
 - 🔧 Building robust backend systems with **Java & Spring Boot**
@@ -72,19 +55,15 @@ class JavaDeveloper:
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br><strong>Java</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
-      <br><strong>Spring Boot</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate" />
-      <br><strong>Hibernate</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
-      <br><strong>Maven</strong>
     </td>
   </tr>
 </table>
@@ -94,15 +73,6 @@ class JavaDeveloper:
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-      <br><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="48" height="48" alt="PostgreSQL" />
-      <br><strong>H2 Database</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="48" height="48" alt="MySQL" />
-      <br><strong>JDBC</strong>
     </td>
   </tr>
 </table>
@@ -112,19 +82,15 @@ class JavaDeveloper:
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><strong>Git</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br><strong>Docker</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br><strong>Postman</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
-      <br><strong>IntelliJ IDEA</strong>
     </td>
   </tr>
 </table>
@@ -134,19 +100,15 @@ class JavaDeveloper:
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br><strong>HTML5</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br><strong>CSS3</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br><strong>JavaScript</strong>
     </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="48" height="48" alt="Bootstrap" />
-      <br><strong>Bootstrap</strong>
     </td>
   </tr>
 </table>
