@@ -23,7 +23,7 @@
 
 <div align="left">
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+<img align="right" alt="Java Developer" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 Hello! I'm a beginner Java developer focused on creating high-quality backend code. I strive to write clean, maintainable code and solve complex problems. Currently, I'm learning microservices architecture and cloud technologies.I specialize in developing server applications using Spring Boot, designing PostgreSQL databases, and creating RESTful APIs. I also have experience in developing Telegram bots and integrating with external services.
 
@@ -121,20 +121,22 @@ Hello! I'm a beginner Java developer focused on creating high-quality backend co
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adis-cmd&show_icons=true&theme=dark&hide_border=true)
+<a href="https://github.com/Adis-cmd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adis-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adis-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adis-cmd&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adis-cmd&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adis-cmd&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 </div>
+
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **Activity Graph**
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adis-cmd&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff)](https://github.com/Adis-cmd)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adis-cmd&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF)](https://github.com/Adis-cmd)
 
 </div>
 
