@@ -121,12 +121,14 @@ Hello! I'm a beginner Java developer focused on creating high-quality backend co
 
 <div align="center">
 
-<a href="https://github.com/Adis-cmd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adis-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adis-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
-</a>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adis-cmd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adis-cmd&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adis-cmd&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adis-cmd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" />
+</p>
 
 </div>
 
@@ -136,7 +138,7 @@ Hello! I'm a beginner Java developer focused on creating high-quality backend co
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adis-cmd&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF)](https://github.com/Adis-cmd)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adis-cmd&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
