@@ -121,14 +121,13 @@ Hello! I'm a beginner Java developer focused on creating high-quality backend co
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adis-cmd&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_radius=0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adis-cmd&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adis-cmd&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=0)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adis-cmd&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adis-cmd&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adis-cmd&layout=compact&theme=dark&hide_border=true)
 
 </div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **Activity Graph**
